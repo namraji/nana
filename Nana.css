@@ -1,0 +1,266 @@
+a {
+    color:rgb(25, 27, 2);
+    text-decoration: none;
+}
+
+
+
+
+
+.button1{
+    background-color:white;
+    border:3px solid rgb(231, 52, 162);
+    color: rgb(231, 52, 162);
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 100px 2px;
+    padding: 10px 80px;   
+}
+
+.button2{
+    background-color:rgb(15, 131, 160);
+    border:none;
+    color:white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 4px 2px;
+    padding: 10px 60px; 
+}
+
+.button3{
+    background-color:rgb(231, 52, 162);
+    border:none;
+    color:white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 30px 2px;
+    padding: 5px 50px;  
+}
+
+.button4{
+    background-color:white;
+    border:3px solid rgb(245, 223, 23);
+    color :rgb(231, 52, 162);
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 20px 2px;
+    padding: 10px 50px;   
+}
+
+.button7{
+    background-color:rgb(15, 131, 160);
+    border:none;
+    color:white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 20px 2px;
+    padding: 7px 50px;   
+}
+
+.button5{
+    background-color:rgb(231, 52, 162);
+    border:3px solid rgb(245, 223, 23);
+    color:rgb(245, 223, 23);
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 50px 2px;
+    padding: 10px 80px;   
+}
+
+
+.categories{
+    font-size:30px;
+    font-family:cursive;
+    color: black;
+}
+.containerz{
+    position: relative;
+    margin:40px;
+}
+
+.text-block{
+    position: absolute;
+    bottom: 180px;
+    right:20px;
+    color:black;
+    padding-left: 20px;
+    padding-right:150px
+
+}
+.col{
+    width:50%;
+    float:left;
+    text-align: center;
+}
+
+.cola{
+    width:33.33%;
+    float:left;
+    text-align: center;   
+}
+
+.col2a{
+    text-align:left;
+}
+
+.explore{
+        background-color:rgb(231, 52, 162);
+        border:3px solid black;
+        color:black;
+        text-align: right;
+        text-decoration: none;
+        font-size: 30px;
+        margin: 0px 500px;
+        padding: 5px 50px;  
+}
+
+
+
+#footerlist li{
+    display:inline;
+    list-style-type:none;
+    padding-right: 50px;
+    
+}
+.footer{
+    background-color :rgb(231, 52, 162);
+    height:50px;
+    margin-top:35px;
+    margin-bottom: 65px;
+}
+.forgot{
+    text-align: center;
+}
+.header2{
+    background-color: white;
+    color:black;
+    padding:0px 30px;
+    font-family: cursive;
+    margin:0px, 20px;
+}
+
+#icons{
+    margin-left:900px;
+}
+
+#icons img{
+    margin:0 30px;
+}
+
+
+.image2{
+    padding-top: 50px;
+}
+
+input[type=date], select{
+    align-content: center;
+    width:80%;
+    height:6%;
+    display:inline-block;
+    border:2px solid black;
+    box-sizing:border-box;
+    padding:12px 20px;
+    margin: 8px 0;
+
+}
+
+input[type=text], select{
+    align-content: center;
+    width:40%;
+    height:6%;
+    display:inline-block;
+    border:2px solid black;
+    box-sizing:border-box;
+    padding:12px 20px;
+    margin: 8px 0;
+
+}
+
+input[type=text1], select{
+    align-content: center;
+    width:80%;
+    height:6%;
+    display:inline-block;
+    border:2px solid black;
+    box-sizing:border-box;
+    padding:12px 20px;
+    margin: 8px 0;
+
+}
+
+input[type=submit], select{
+    align-content: center;
+    width:10%;
+    height:6%;
+    display:inline-block;
+    border:none;
+    box-sizing:border-box;
+    padding:14px 20px;
+    margin: 8px 0;
+    background-color:black;
+    color:white;
+    border-radius:20%;
+    
+}
+.main{
+    width:94.75%;
+    margin:50px auto;
+
+}
+
+.payment{
+padding:30px;
+}
+
+.ph{
+    font-size:25px;
+}
+.sign-in{
+    padding-top:0px;
+}
+
+.slider{
+    margin:40px;
+}
+
+.slider2{
+    padding:70px;
+}
+ul li{
+    display: inline-block;
+}
+
+ul{
+    word-spacing:110px;
+    text-align:center;
+    margin-top:0px;
+    font-size:25px;
+    padding:0px;
+}
+
+.your-bg-navbar {
+    background-color:rgb(231, 52, 162);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
